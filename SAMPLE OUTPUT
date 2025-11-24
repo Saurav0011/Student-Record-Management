@@ -1,0 +1,12 @@
+---- Student Record Management ----
+1. Add Student
+2. View Students
+3. Search Student
+4. Delete Student
+5. Exit
+Enter Choice: 1
+
+Enter Roll No: 101
+Enter Name: Rahul
+Enter Marks: 89
+Student Added Successfully!
