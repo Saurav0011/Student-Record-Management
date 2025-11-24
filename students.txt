@@ -9,8 +9,7 @@ A simple CSE mini project using Python file handling.
 - Delete Student
 
 ## 📂 Project Structure
-
-Student-Record-Management/
+tudent-Record-Management/
 │
 ├── student_management.py
 ├── students.txt
@@ -21,8 +20,7 @@ Student-Record-Management/
 ## ▶️ How to Run
 Install Python and run:
 
-
-
+python student_management.py
 
 ## ✔ Requirements
 - Python 3.x  
